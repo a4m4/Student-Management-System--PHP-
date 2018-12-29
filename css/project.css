@@ -1,0 +1,50 @@
+/* DASHBOARD */
+
+.dashtitle{
+
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 140px;
+	line-height: 140px;
+	background-color: blue;
+	color: white;
+
+}
+
+
+.dashbody {
+	width: 50%;
+	background-color: black;
+	color:white;
+	margin-right: 350px;
+	margin-left: 350px;
+	font-size: 35px;
+	text-decoration: none;
+}
+
+.dashbody a:hover {
+	text-decoration: none;
+}
+
+.dashbody a{
+	color: white;
+}
+
+.logout{
+	float: right;
+	margin-right: 70px;
+	color: white; 
+	text-decoration: none;
+	font-size: 25px;
+
+}
+
+
+.back{
+	float: left;
+	margin-left: 70px;
+	color: white; 
+	text-decoration: none;
+	font-size: 25px;
+
+}
